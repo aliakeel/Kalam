@@ -1,0 +1,6 @@
+com\Active\kalam\KalamApplication.class
+com\Active\kalam\model\ChatMessage.class
+com\Active\kalam\controller\ChatController.class
+com\Active\kalam\config\WebSocketConfig.class
+com\Active\kalam\model\ChatMessage$MessageType.class
+com\Active\kalam\model\User.class
